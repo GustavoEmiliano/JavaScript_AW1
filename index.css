@@ -1,0 +1,52 @@
+/* Estilo para a mensagem de "Bom Dia" */
+.tag-bom-dia {
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.95 );
+  color: white;
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+  background-color: yellow;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Estilo para a mensagem de "Boa Tarde" */
+.tag-boa-tarde {
+  color: white;
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+  background-color: orange;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Estilo para a mensagem de "Boa Noite" */
+.tag-boa-noite {
+  color: white;
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+  background-color: blue;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Estilo de fundo do corpo da página */
+body {
+  background: linear-gradient(to right, #f0f0f0, #000000);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.mens{
+  font-size: 16px; 
+  line-height: 1.5; 
+  padding: 10px; 
+  color: #333; 
+  font-family: Arial, sans-serif; 
+  text-align: center;
+  background-color: #f9f9f9;
+  margin-top: -16px; 
+}
+
